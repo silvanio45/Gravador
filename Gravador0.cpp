@@ -6,6 +6,11 @@ char buffer[MAX_SIZE]; // Buffer para armazenar a string de dados
 
 int X = 0; // Índice do próximo caractere a ser gravado no buffer
 
+P3_4 = 0; 
+P3_5 = 1; 
+P3_6 = 0; 
+P3_7 = 0; 
+
 void main()
 {
     
